@@ -1,0 +1,3 @@
+[submodule "netty-tcnative"]
+	path = netty-tcnative
+	url = https://github.com/netty/netty-tcnative
